@@ -105,6 +105,15 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.win">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_hosts.win">dl</a></td>
 </tr>
+<tr>
+<td>Little Snitch</td>
+<td><a href="https://o0.pages.dev/mini/snitch.rules">dl</a></td>
+<td><a href="https://badmojr.gitlab.io/1hosts/mini/snitch.rules">view</a></td>
+<td><a href="https://badmojr.github.io/1Hosts/mini/snitch.rules">dl</a></td>
+<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/mini/snitch.rules">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/snitch.rules">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_snitch.rules">dl</a></td>
+</tr>
 </tbody>
 </table>
 <br>
@@ -205,6 +214,15 @@
 <td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Lite/hosts.win">view</a></td>
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.win">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_hosts.win">dl</a></td>
+</tr>
+<tr>
+<td>Little Snitch</td>
+<td><a href="https://o0.pages.dev/Lite/snitch.rules">dl</a></td>
+<td><a href="https://badmojr.gitlab.io/1hosts/Lite/snitch.rules">view</a></td>
+<td><a href="https://badmojr.github.io/1Hosts/Lite/snitch.rules">dl</a></td>
+<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Lite/snitch.rules">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/snitch.rules">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_snitch.rules">dl</a></td>
 </tr>
 </tbody>
 </table>
@@ -307,6 +325,15 @@
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.win">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_hosts.win">dl</a></td>
 </tr>
+<tr>
+<td>Little Snitch</td>
+<td><a href="https://o0.pages.dev/Pro/snitch.rules">dl</a></td>
+<td><a href="https://badmojr.gitlab.io/1hosts/Pro/snitch.rules">view</a></td>
+<td><a href="https://badmojr.github.io/1Hosts/Pro/snitch.rules">dl</a></td>
+<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Pro/snitch.rules">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/snitch.rules">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_snitch.rules">dl</a></td>
+</tr>
 </tbody>
 </table>
 <br>
@@ -407,6 +434,15 @@
 <td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/hosts.win">view</a></td>
 <td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.win">view</a></td>
 <td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_hosts.win">dl</a></td>
+</tr>
+<tr>
+<td>Little Snitch</td>
+<td><a href="https://o0.pages.dev/Xtra/snitch.rules">dl</a></td>
+<td><a href="https://badmojr.gitlab.io/1hosts/Xtra/snitch.rules">view</a></td>
+<td><a href="https://badmojr.github.io/1Hosts/Xtra/snitch.rules">dl</a></td>
+<td><a href="https://gitlab.com/badmojr/1hosts/-/raw/main/Xtra/snitch.rules">view</a></td>
+<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/snitch.rules">view</a></td>
+<td><a href="https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_snitch.rules">dl</a></td>
 </tr>
 </tbody>
 </table>
