@@ -2,9 +2,9 @@
 ; Expires: 12 hours
 ;  .............
 ;  |URL: https://github.com/badmojr/1Hosts
-;  |Count: 108,314 rules!
+;  |Count: 108,310 rules!
 ;  |Size: 2.84 MB
-;  |Updated: Sun, 20 Feb 2022 13:21:45 +0000
+;  |Updated: Sun, 20 Feb 2022 15:25:16 +0000
 ;  |
 ;  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
 ;  |Licence: MPLv2,
@@ -19,7 +19,7 @@
 ;  \____________________
 
 $TTL 300
-@ SOA localhost. root.localhost. 1645363304 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1645370716 43200 3600 259200 300
   NS  localhost.
 
 *.marketing.globalpointofcare.abbott CNAME .
@@ -7034,8 +7034,6 @@ stat.24liveplus.com CNAME .
 ads.24ur.com CNAME .
 *.24-7clinic.com CNAME .
 24-7clinic.com CNAME .
-*.marketing.net.24-ads.com CNAME .
-marketing.net.24-ads.com CNAME .
 *.24-sportnews.com CNAME .
 24-sportnews.com CNAME .
 *.254a.com CNAME .
@@ -7486,6 +7484,8 @@ ad.51wnl.com CNAME .
 ad-android.51wnl.com CNAME .
 *.51xumei.com CNAME .
 51xumei.com CNAME .
+*.51yes.com CNAME .
+51yes.com CNAME .
 *.game.51yund.com CNAME .
 game.51yund.com CNAME .
 *.520click.com CNAME .
@@ -94534,10 +94534,6 @@ postmedia.hb.omtrdc.net CNAME .
 stanfordhealthcare.hb.omtrdc.net CNAME .
 *.vice.hb.omtrdc.net CNAME .
 vice.hb.omtrdc.net CNAME .
-*.churchofjesuschrist.hb-api.omtrdc.net CNAME .
-churchofjesuschrist.hb-api.omtrdc.net CNAME .
-*.fandango.hb-api.omtrdc.net CNAME .
-fandango.hb-api.omtrdc.net CNAME .
 *.ns11.omtrdc.net CNAME .
 ns11.omtrdc.net CNAME .
 *.ns12.omtrdc.net CNAME .
